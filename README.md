@@ -33,7 +33,7 @@ I enjoy turning raw data into actionable insights through **Excel, Python, SQL, 
 ### 🛠️ Technical Skills
 **Languages:** Python, R, SQL  
 **Tools:** Tableau, Power BI, Excel, Jupyter Notebook, PostgreSQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn & more
 
 ---
 
