@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyansh Gupta
 
-🎯 **Aspiring Business Analyst | Business Intelligence Enthusiast | Schulich School of Business, York University**
+🎯 **Aspiring Business Analyst | Ex-Aon & Grain Discovery | Schulich School of Business, York University**
 
 📍 Toronto, Canada  
 📧 gupta07divyansh@gmail.com  
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Data Analytics student with a strong interest in **Machine Learning**, **Business Intelligence**, **Business Optimization** and **Data-Driven Insights**.  
+I'm a passionate Data Analytics student with a strong interest in **Machine Learning**, **Business Intelligence**, **Chatbot Development** and **Data-Driven Insights**. I also have prior experience in human capital solutions analytics working on projects like workforce & compensation benchmarking, pay equity, gender benchmarking, etc. Also worked on building analytical dashboards and AI chatbots for startups.
 I enjoy turning raw data into actionable insights through **Excel, Python, SQL, and Tableau**.
 
 📜 **Certifications:**  
