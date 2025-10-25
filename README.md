@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Divyansh Gupta
 
-🎯 **Aspiring Data Analyst | Business Intelligence Enthusiast | Schulich School of Business, York University**
+🎯 **Aspiring Business Analyst | Business Intelligence Enthusiast | Schulich School of Business, York University**
 
 📍 Toronto, Canada  
 📧 gupta07divyansh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Tableau Portfolio](https://public.tableau.com/app/profile/yourprofile)
+🔗 [LinkedIn](https://www.linkedin.com/in/divyansh-m-gupta/) | [Tableau Portfolio](https://public.tableau.com/app/profile/divyansh.gupta2815/vizzes)
 
 ---
 
@@ -21,11 +21,11 @@ I enjoy turning raw data into actionable insights through **Excel, Python, SQL, 
 ---
 
 ### 🧠 Key Projects
-- 📊 **[RBC Financial Analysis Dashboard (#)** – Built a Reporting Dashboard to showcase RBC Customers' Provincial Access & Key Barriers to Financial Access among newcomers.
-- 🔍 **[Course Recommendation Model](#)** – Built a Course Recommendation Model to help Schulich students choose better electives/courses as per their curriculum and interests.
-- 👥 **[Customer Segmentation using Unsupervised Learning](#)** – Built a clustering model to segment customers by transaction behavior for targeted marketing.  
-- 🏦 **[Machine Learning Model to Predict CLV](#)** – Using various Machine Learning models (Random Forest, etc.) to predict customer lifetime value.  
-- 🚀 **[TTC Bus Delay Dashboard](#)** – Built a Reporting Dashboard to showcase TTC's Bus Delay metrics post covid-19 era.
+- 📊 **[RBC Financial Analysis Dashboard](https://public.tableau.com/app/profile/divyansh.gupta2815/viz/RBCNewcomerFinancialAnalysisDashboard/Analysis-RBCDashboard)** – Built a Reporting Dashboard to showcase RBC Customers' Provincial Access & Key Barriers to Financial Access among newcomers.
+- 🔍 **[Course Recommendation Model](https://github.com/divyanshhgupta/Work-Demonstrations/blob/main/Course%20Recommendation%20Model.ipynb)** – Built a Course Recommendation Model to help Schulich students choose better electives/courses as per their curriculum and interests.
+- 👥 **[Customer Segmentation using Unsupervised Learning](https://github.com/divyanshhgupta/Work-Demonstrations/blob/main/Customer%20Segmentation%20via%20Clustering%20Analysis.ipynb)** – Built a clustering model to segment customers by transaction behavior for targeted marketing.  
+- 🏦 **[Machine Learning Model to Predict CLV](https://github.com/divyanshhgupta/Work-Demonstrations/blob/main/MML%20Model%20to%20predict%20CLV.ipynb)** – Using various Machine Learning models (Random Forest, etc.) to predict customer lifetime value.  
+- 🚀 **[TTC Bus Delay Dashboard](https://public.tableau.com/app/profile/divyansh.gupta2815/viz/TTCBusDelayDashboard2022-2024/TTCBusDelayMetrics)** – Built a Reporting Dashboard to showcase TTC's Bus Delay metrics post covid-19 era.
 
 ---
 
@@ -36,10 +36,6 @@ I enjoy turning raw data into actionable insights through **Excel, Python, SQL, 
 
 ---
 
-### 🌱 Currently Learning
-Improving my proficiency in **data visualization**, **ETL pipelines**, and **predictive modeling**.
-
----
 
 ### 💬 Connect with Me
 Let’s collaborate or chat about data projects!  
