@@ -10,6 +10,7 @@
 
 ### 🚀 About Me
 I'm a passionate Data Analytics student with a strong interest in **Machine Learning**, **Business Intelligence**, **Chatbot Development** and **Data-Driven Insights**. I also have prior experience in human capital solutions analytics working on projects like workforce & compensation benchmarking, pay equity, gender benchmarking, etc. Also worked on building analytical dashboards and AI chatbots for startups.
+
 I enjoy turning raw data into actionable insights through **Excel, Python, SQL, and Tableau**.
 
 📜 **Certifications:**  
