@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Divyansh Gupta
 
-🎯 **Aspiring Business Analyst | Ex-Aon & Grain Discovery | Schulich School of Business, York University**
+🎯 **Aspiring Business Analyst | Research Analyst @ Advanis 👨‍💻
+Ex-Aon & Grain Discovery | Schulich School of Business, York University**
 
 📍 Toronto, Canada  
 📧 gupta07divyansh@gmail.com  
